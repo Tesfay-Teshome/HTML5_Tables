@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+}
+
+table{
+    width: 70%;
+    border-collapse: collapse;
+    text-align: left;
+    border: 3px solid #1894f2;
+    border-radius: 10px;
+
+
+}
+th{
+    background-color: #c2ebf2;
+    border: 3px solid #1894f2;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    padding:1px;
+}
+tr{
+    background-color: #effcff;
+    border: 3px solid #1894f2;
+    border-collapse: collapse;
+    font-family:arial, sans-serif;
+    font-size: 12px;
+
+
+}
+td{
+    border: 3px solid #1894f2;
+}
+tfoot{
+    background-color: #85f2c7;
+    font-weight: bold;
+
+}
